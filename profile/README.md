@@ -1,12 +1,18 @@
-## Hi there 👋
+# OhioIoT ESP Provisioning Examples<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
-<!--
+These code bases were created and explained the [ESP32 WiFi Setup](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) playlist on the OhioIoT YouTube channel.  The following videos are matched with the following code bases:
 
-**Here are some ideas to get you started:**
+| # | Topic | Video | Code |
+|---|-------|-------|------|
+| 1 | Provision with Minimum Code | [Video](https://youtu.be/joSQdGQZj2Q)( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config)|
+| 2 | Custom HTML Config Screen | [Video](https://youtu.be/UBM_KC4RHlo( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML) |
+| 3 | Captive Portal | [Video](https://youtu.be/84m80RYoLmE( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Captive-Portal) |
+| 4 | Store Your Credentials | [Video](https://youtu.be/rn4CZpfgST4( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Store-Creds) |
+| 5 | When to Run the Provisioner   | [Video](https://youtu.be/KfPEm5m-Xdc( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Provisioning-Strategies) |
+| 6 | One-Click Provisioning | [Video](https://youtu.be/ggkNcxTs2Pc( | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/One-Click-Config) |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Also, try any of these additional links:
+
+- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+- [OhioIoT GitHub Indexl](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
