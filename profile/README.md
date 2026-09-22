@@ -11,6 +11,7 @@ These code bases were created and explained the [ESP32 Provisioning](https://www
 | 5 | When to Run the Provisioner   | [Video](https://youtu.be/KfPEm5m-Xdc) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Provisioning-Strategies) |
 | 6 | One-Click Provisioning | [Video](https://youtu.be/ggkNcxTs2Pc) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/One-Click-Config) |
 
+
 Learn more about OhioIoT:
 
 - [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
