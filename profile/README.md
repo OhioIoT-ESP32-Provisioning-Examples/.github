@@ -2,7 +2,7 @@
 
 These code bases were created and explained the [ESP32 Provisioning](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) playlist on the OhioIoT YouTube channel.  The following videos are matched with the following code bases:
 
-| # | Topic | |
+| # | Topic |-------|------|
 |---|-------|-------|------|
 | 1 | Provision with Minimum Code | [Video](https://youtu.be/joSQdGQZj2Q) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config)|
 | 2 | Custom HTML Config Screen | [Video](https://youtu.be/UBM_KC4RHlo) | [Code Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML) |
